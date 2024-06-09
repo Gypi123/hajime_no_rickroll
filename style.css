@@ -1,0 +1,47 @@
+header
+{
+    height: 100px;
+text-align: center;
+color: rgba(255, 255, 255, 0.493);
+padding: 200px;
+font-size: 100px;
+margin:0px;
+background-color: rgba(0, 0, 0, 0.5);
+font-family: 'Lucida Sans';
+}
+body{
+margin-top: 0px;
+background-image: url(https://surtido.pe/wp-content/uploads/2022/12/anime-serie-box-Hajime-no-Ippo-netflix-estreno-fecha.jpg);
+background-size: contain;
+color: white;
+font-family:'Gill Sans';
+}
+main{
+    text-align: left;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.384);
+.block1{
+text-align: center;
+}
+.block2{
+    text-align:left;
+}
+.block3{
+    text-align: center;
+}
+footer{
+    background-color: rgba(105, 105, 105, 0.418);
+    text-align: center;
+    color: rgba(255, 255, 255, 0.541);
+    }
+.social img{
+    width: 100px;
+    padding-left: 10px;
+}
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+}
